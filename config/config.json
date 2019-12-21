@@ -16,10 +16,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
+    "username": "osw31sxbk8z080jw",
+    "password": "sc08aof9fz1jidmd",
     "database": "database_production",
-    "host": "127.0.0.1",
+    "host": "wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
     "dialect": "mysql"
   }
