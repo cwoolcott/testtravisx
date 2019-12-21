@@ -2,7 +2,7 @@
   "development": {
     "username": "osw31sxbk8z080jw",
     "password": "sc08aof9fz1jidmd",
-    "database": "todolist",
+    "database": "hx3j5pqc4qhap2f4",
     "host": "wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
     "dialect": "mysql"
@@ -10,7 +10,7 @@
   "test": {
     "username": "osw31sxbk8z080jw",
     "password": "sc08aof9fz1jidmd",
-    "database": "todolist",
+    "database": "hx3j5pqc4qhap2f4",
     "host": "wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
     "dialect": "mysql"
@@ -18,7 +18,7 @@
   "production": {
     "username": "osw31sxbk8z080jw",
     "password": "sc08aof9fz1jidmd",
-    "database": "todolist",
+    "database": "hx3j5pqc4qhap2f4",
     "host": "wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
     "dialect": "mysql"
